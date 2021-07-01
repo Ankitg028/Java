@@ -8,3 +8,11 @@
  * Create a compartment of a type as decided by a randomly generated integer in the range 1 to 4.
  * Check the polymorphic behavior of the notice method.
  * */
+
+ /**
+  * main
+  */
+ public class main {
+ 
+     
+ }
